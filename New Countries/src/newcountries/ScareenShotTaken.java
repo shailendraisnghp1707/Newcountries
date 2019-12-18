@@ -23,6 +23,17 @@ import org.testng.annotations.Test;
  
 public class ScareenShotTaken{
 	
+	
+	/*
+
+*
+* date 18/12/2019
+* 
+* Autoher by Shailendra singh
+*
+*
+*/
+	
 	/* public static WebDriver driver; */
  
 static WebDriver webDriver;
